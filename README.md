@@ -14,7 +14,7 @@ Este clon de Spotify que está hecho con React y Express le permite al usuario h
 2. esto nos permitirá exportar paquetes en el archivo index.js usando la sintaxis de ES6.
 
 # Para ejecutar la aplicacion 
-1. cambiar el formato de los .env.jsx a .env para que asi pueda funcionar el programa con las id y uri
+1. cambiar el formato de los .env.jsx a .env para que estan alojados en la carpeta server y client para  que asi pueda funcionar el programa con las id(normal y secreta) y uri
 2. acceda a la carpeta con cd .\server\ o mediante vs
 3. instale las dependencias mediante el terminal: npm init --y, npm i express cors dotenv lyrics-finder spotify-web-api-node
 4. vuelva a repetir el paso #1 pero con la carpeta client
